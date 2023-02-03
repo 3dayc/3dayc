@@ -29,6 +29,16 @@
   
   <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/express-646CFF?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/restapi-85EA2D?style=flat-square&logo=swagger&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/jest-C21325?style=flat-square&logo=jest&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
@@ -39,13 +49,6 @@
   <img src="https://img.shields.io/badge/apigateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
-  <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/jest-C21325?style=flat-square&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <br>
 </div>
