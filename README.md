@@ -42,6 +42,7 @@
   <br>
   
   <img src="https://img.shields.io/badge/jest-C21325?style=flat-square&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/sentry-362D59?style=flat-square&logo=sentry&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
