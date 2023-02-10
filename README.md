@@ -3,7 +3,7 @@
 <div align=center> 
   <a href="https://velog.io/@hoonlocal"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
 <!--   <a href="https://slow-plow-ca0.notion.site/7b7ec82268264909b510c320d3f1127b"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=notion&logoColor=white"></a> -->
-  <a href="https://www.instagram.com/hoonlocal"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/hoonlocal/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 </div>
 <br>
 
