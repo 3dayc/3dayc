@@ -1,4 +1,4 @@
-<div align=center><h1>:necktie: About Me</h1></div>
+<div align=center><h1>:necktie: Contact</h1></div>
 
 <div align=center> 
   <a href="https://velog.io/@hoonlocal"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
@@ -7,7 +7,7 @@
 </div>
 <br>
 
-<div align=center><h1>:books: Stacks</h1></div>
+<div align=center><h1>:books: Skills</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
