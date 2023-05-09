@@ -1,26 +1,3 @@
-<div><h1>Activity</h1></div>
-
-<div>
-  <p>IT커뮤니티(<a href="https://linktr.ee/3dayc">3DAYC</a>)를 개설하여 운영 중</p>
-  <ul>
-    <li>
-      다양한 스터디를 통해 서로의 생각, 정보, 과정, 결과를 공유합니다
-    </li>
-    <li>
-      AI 시대에 맞는 멀티태스킹 능력과 인사이트를 얻어가는 것을 목표로 합니다
-    </li>
-    <li>
-      마음과 관심사가 맞으면 또 다른 스터디도 함께 하는 지속적인 공간을 추구합니다
-    </li>
-    <li>
-      스터디마다 주제나 방식이 다르니, 자세한 사항은 노션 모집공고를 참고해주세요
-    </li>
-    <li>
-      새로운 스터디를 개설하고 싶은 분은 디스코드 & 메일로 문의 주세요
-    </li>
-  </ul>
-</div>
-
 <div><h1>Stacks</h1></div>
 
 <div>
@@ -88,4 +65,27 @@
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
   <br>
+</div>
+
+<div><h1>Activity</h1></div>
+
+<div>
+  <p>IT커뮤니티(<a href="https://linktr.ee/3dayc">3DAYC</a>)를 개설하여 운영 중</p>
+  <ul>
+    <li>
+      다양한 스터디를 통해 서로의 생각, 정보, 과정, 결과를 공유합니다
+    </li>
+    <li>
+      AI 시대에 맞는 멀티태스킹 능력과 인사이트를 얻어가는 것을 목표로 합니다
+    </li>
+    <li>
+      마음과 관심사가 맞으면 또 다른 스터디도 함께 하는 지속적인 공간을 추구합니다
+    </li>
+    <li>
+      스터디마다 주제나 방식이 다르니, 자세한 사항은 노션 모집공고를 참고해주세요
+    </li>
+    <li>
+      새로운 스터디를 개설하고 싶은 분은 디스코드 & 메일로 문의 주세요
+    </li>
+  </ul>
 </div>
