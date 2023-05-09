@@ -11,7 +11,7 @@
 <div><h1>Study</h1></div>
 
 <div>
-  <p>IT커뮤니티(3DAYC)를 개설하여 운영 중</p>
+  <p>IT커뮤니티(<a href="https://linktr.ee/3dayc">3DAYC</a>)를 개설하여 운영 중</p>
   <ul>
     <li>
       다양한 스터디를 통해 서로의 생각, 정보, 과정, 결과를 공유합니다
@@ -29,8 +29,9 @@
       새로운 스터디를 개설하고 싶은 분은 디스코드로 문의 주세요
     </li>
   </ul>
-  <a href="https://linktr.ee/3dayc"><img src="https://img.shields.io/badge/linktree-43E55E?style=flat-square&logo=linktree&logoColor=white"></a>
 </div>
+
+<br>
 
 <div><h1>Stacks</h1></div>
 
