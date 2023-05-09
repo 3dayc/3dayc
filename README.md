@@ -112,3 +112,31 @@
 + MyRobotTime 강의 사이트 `2019.03 - 2020.04`
 + LineCoreM 애플리케이션 `2019.03 - 2020.04`
 + IYRC2019 정부과제 로봇 프로젝트 `2019.03 - 2019.11`
+
+# blog
+
+```
+tech-blog
+```
+3년간(2020 - 2022) 운영하던 워드프레스의 호스팅 만료로 **기술블로그** 공간을 GitHub로 옮깁니다.
+
++ [이야기품 BM](https://github.com/3dayc/blog/blob/main/tech-blog/story_bm.md)
+
+<br>
+
+```
+trouble-shooting
+```
+
+**트러블슈팅** 경험을 `Issue` > `Problem` > `Solution` > `What I Learn` 방식으로 간략히 메모합니다.
+
++ [AWS EB로 Blue/Green 배포](https://github.com/3dayc/blog/blob/main/trouble-shooting/AWS_EB%EB%A1%9C_Blue_Green_%EB%B0%B0%ED%8F%AC.md)
++ [canonical이란?](https://github.com/3dayc/blog/blob/main/trouble-shooting/canonical%EC%9D%B4%EB%9E%80.md)
++ [Nuxt에서 redirect 설정하기](https://github.com/3dayc/blog/blob/main/trouble-shooting/Nuxt%EC%97%90%EC%84%9C_redirect_%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0.md)
++ [AWS ECS 배포 자동화](https://github.com/3dayc/blog/blob/main/trouble-shooting/AWS_ECS_%EB%B0%B0%ED%8F%AC_%EC%9E%90%EB%8F%99%ED%99%94.md)
++ [AWS region 인증 에러](https://github.com/3dayc/blog/blob/main/trouble-shooting/AWS_region_%EC%9D%B8%EC%A6%9D_%EC%97%90%EB%9F%AC.md)
++ [maimovie 프로세스 정리](https://github.com/3dayc/blog/blob/main/trouble-shooting/maimovie_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4_%EC%A0%95%EB%A6%AC.md)
++ [node 버전 migration 하기](https://github.com/3dayc/blog/blob/main/trouble-shooting/node_%EB%B2%84%EC%A0%84_migration_%ED%95%98%EA%B8%B0.md)
++ [meta태그 ogimage 적용하기](https://github.com/3dayc/blog/blob/main/trouble-shooting/meta%ED%83%9C%EA%B7%B8_ogimage_%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md)
++ [Github Actions 배포시간 단축](https://github.com/3dayc/blog/blob/main/trouble-shooting/Github_Actions_%EB%B0%B0%ED%8F%AC%EC%8B%9C%EA%B0%84_%EB%8B%A8%EC%B6%95.md)
++ [AWS EB로 배포하기](https://github.com/3dayc/blog/blob/main/trouble-shooting/AWS_EB%EB%A1%9C_%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0.md)
