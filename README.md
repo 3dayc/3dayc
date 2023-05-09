@@ -70,7 +70,7 @@
 # Activity
 
 <div>
-  <p>AI커뮤니티(<a href="https://linktr.ee/3dayc">3DAYC</a>)를 개설하여 운영 중</p>
+  <p>AI커뮤니티(<a href="https://linktr.ee/3dayc">3DAYC</a>)를 기획하여 운영 중</p>
   <ul>
     <li>
       다양한 스터디를 통해 서로의 생각, 정보, 과정, 결과를 공유합니다
