@@ -8,7 +8,7 @@
 <br>
  -->
 
-<div><h1>Community</h1></div>
+<div><h1>3DAYC</h1></div>
 
 <div>
   <ul>
@@ -31,7 +31,7 @@
   <a href="https://linktr.ee/3dayc"><img src="https://img.shields.io/badge/linktree-43E55E?style=flat-square&logo=linktree&logoColor=white"></a>
 </div>
 
-<div><h1>:books: Stacks</h1></div>
+<div><h1>Stacks</h1></div>
 
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
