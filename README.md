@@ -8,16 +8,32 @@
 <br>
  -->
 
-<div align=center><h1>:books: Community</h1></div>
-+ 다양한 스터디를 통해 서로의 생각, 정보, 과정, 결과를 공유합니다
-+ AI 시대에 맞는 멀티태스킹 능력과 인사이트를 얻어가는 것을 목표로 합니다
-+ 마음과 관심사가 맞으면 또 다른 스터디도 함께 하는 지속적인 공간을 추구합니다
-+ 스터디마다 주제나 방식이 다르니, 자세한 사항은 모집공고를 참고해주세요
-+ 새로운 스터디를 개설하고 싶은 분은 디스코드로 문의 주세요
+<div><h1>Community</h1></div>
 
-<div align=center><h1>:books: Stacks</h1></div>
+<div>
+  <ul>
+    <li>
+      다양한 스터디를 통해 서로의 생각, 정보, 과정, 결과를 공유합니다
+    </li>
+    <li>
+      AI 시대에 맞는 멀티태스킹 능력과 인사이트를 얻어가는 것을 목표로 합니다
+    </li>
+    <li>
+      마음과 관심사가 맞으면 또 다른 스터디도 함께 하는 지속적인 공간을 추구합니다
+    </li>
+    <li>
+      스터디마다 주제나 방식이 다르니, 자세한 사항은 모집공고를 참고해주세요
+    </li>
+    <li>
+      새로운 스터디를 개설하고 싶은 분은 디스코드로 문의 주세요
+    </li>
+  </ul>
+  <a href="https://linktr.ee/3dayc"><img src="https://img.shields.io/badge/linktree-43E55E?style=flat-square&logo=linktree&logoColor=white"></a>
+</div>
 
-<div align=center>
+<div><h1>:books: Stacks</h1></div>
+
+<div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white">
