@@ -1,4 +1,4 @@
-<div><h1>Stacks</h1></div>
+<h1>Stacks</h1>
 
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -67,7 +67,7 @@
   <br>
 </div>
 
-<div><h1>Activity</h1></div>
+<h1>Activity</h1>
 
 <div>
   <p>AI커뮤니티(<a href="https://linktr.ee/3dayc">3DAYC</a>)를 개설하여 운영 중</p>
