@@ -90,7 +90,7 @@
   </ul>
 </div>
 
-# portfolio
+# Portfolio
 
 ### Work Experience
 
@@ -113,7 +113,7 @@
 + LineCoreM 애플리케이션 `2019.03 - 2020.04`
 + IYRC2019 정부과제 로봇 프로젝트 `2019.03 - 2019.11`
 
-# blog
+# Blog
 
 ```
 tech-blog
