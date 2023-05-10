@@ -100,7 +100,7 @@ AI커뮤니티([3DAYC](https://linktr.ee/3dayc))를 기획, 개설하여 운영 
 + LineCoreM 애플리케이션 `2019.03 - 2020.04`
 + IYRC2019 정부과제 로봇 프로젝트 `2019.03 - 2019.11`
 
-# blog
+# Blog
 
 **트러블 슈팅** 경험을 `Issue` > `Problem` > `Solution` > `What I Learn` 방식으로 간략히 메모합니다.
 
