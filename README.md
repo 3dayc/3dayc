@@ -73,7 +73,7 @@
 
 > **IT 풋살동호회 창단** / FC휘마 `2017.03 - 현재`
 
-# Portfolio
+# Project
 
 ### Work Experience
 
