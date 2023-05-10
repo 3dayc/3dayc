@@ -100,22 +100,9 @@ AI커뮤니티([3DAYC](https://linktr.ee/3dayc))를 기획, 개설하여 운영 
 + LineCoreM 애플리케이션 `2019.03 - 2020.04`
 + IYRC2019 정부과제 로봇 프로젝트 `2019.03 - 2019.11`
 
-# Blog
+# blog
 
-```
-tech-blog
-```
-3년간(2020 - 2022) 운영하던 워드프레스의 호스팅 만료로 **기술블로그** 공간을 GitHub로 옮깁니다.
-
-+ [이야기품 BM](https://github.com/3dayc/blog/blob/main/tech-blog/story_bm.md)
-
-<br>
-
-```
-trouble-shooting
-```
-
-**트러블슈팅** 경험을 `Issue` > `Problem` > `Solution` > `What I Learn` 방식으로 간략히 메모합니다.
+**트러블 슈팅** 경험을 `Issue` > `Problem` > `Solution` > `What I Learn` 방식으로 간략히 메모합니다.
 
 + [AWS EB로 Blue/Green 배포](https://github.com/3dayc/blog/blob/main/trouble-shooting/AWS_EB%EB%A1%9C_Blue_Green_%EB%B0%B0%ED%8F%AC.md)
 + [canonical이란?](https://github.com/3dayc/blog/blob/main/trouble-shooting/canonical%EC%9D%B4%EB%9E%80.md)
