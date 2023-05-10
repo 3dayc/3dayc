@@ -69,11 +69,11 @@
 
 # Activity
 
-> **AI 커뮤니티 기획·개설** / [3DAYC](https://linktr.ee/3dayc)(운영 중) `2023.01 - 현재`
+> **AI 커뮤니티 기획·운영** / [3DAYC](https://linktr.ee/3dayc) `2023.01 - 현재`
 
 <br>
 
-> **IT 풋살동호회 창단** / FC휘마(운영 중) `2017.03 - 현재`
+> **IT 풋살동호회 창단** / FC휘마 `2017.03 - 현재`
 
 # Portfolio
 
