@@ -71,8 +71,6 @@
 
 > **AI 커뮤니티 기획·운영** / [3DAYC](https://linktr.ee/3dayc) `2023.01 - 현재`
 
-<br>
-
 > **IT 풋살동호회 창단** / FC휘마 `2017.03 - 현재`
 
 # Portfolio
