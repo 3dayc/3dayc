@@ -124,7 +124,7 @@ trouble-shooting
 mycelebs-wiki
 ```
 
-마이셀럽스 프로젝트들을 관리하며 작성한 온보딩 가이드
+**마이셀럽스** 프로젝트들을 관리하며 작성한 온보딩(**Wiki**) 가이드
 
 + [코딩 컨벤션](https://github.com/3dayc/guide/wiki)
 + [git convention](https://github.com/3dayc/blog/blob/main/mycelebs-wiki/git_convention.md)
