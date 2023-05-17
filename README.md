@@ -163,3 +163,21 @@ mycelebs-wiki
 + [패키지 인스톨 및 실행시 주의점](https://github.com/3dayc/blog/blob/main/mycelebs-wiki/%ED%8C%A8%ED%82%A4%EC%A7%80_%EC%9D%B8%EC%8A%A4%ED%86%A8_%EB%B0%8F_%EC%8B%A4%ED%96%89%EC%8B%9C_%EC%A3%BC%EC%9D%98%EC%A0%90.md)
 + [스테이피아어드민 라우터 정리](https://github.com/3dayc/blog/blob/main/mycelebs-wiki/%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%94%BC%EC%95%84%EC%96%B4%EB%93%9C%EB%AF%BC_%EB%9D%BC%EC%9A%B0%ED%84%B0_%EC%A0%95%EB%A6%AC.md)
 + [스테이피아어드민 리팩토링 관련](https://github.com/3dayc/blog/blob/main/mycelebs-wiki/%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%94%BC%EC%95%84%EC%96%B4%EB%93%9C%EB%AF%BC_%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81_%EA%B4%80%EB%A0%A8.md)
+
+<br>
+
+```
+lecture-memo
+```
+
+**서비스 기획 PM 완주반 : 3대 서비스 역기획부터 런칭까지** - 53시간
++ 예정
+
+**PM/PO 실무 완전 정복** - 116시간
++ 예정
+
+**PM을 위한 데이터 리터러시(프로덕트 데이터 분석)** - 15시간
++ 예정
+
+**직장인을 위한 파이썬 데이터 분석** - 103시간
++ 예정
