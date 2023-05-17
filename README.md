@@ -1,11 +1,6 @@
 # Skill
 
 ### Develop
-
-### Data
-
-### Collaboration
-
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -70,7 +65,16 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
-  <br>
+</div>
+
+### Data
+<div>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
+</div>
+
+### Collaboration
+<div>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 </div>
 
 # Activity
