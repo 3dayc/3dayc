@@ -155,7 +155,7 @@ mycelebs-wiki
 <br>
 
 ```
-education-memo
+education
 ```
 
 **서비스 기획 PM 완주반 : 3대 서비스 역기획부터 런칭까지** - 53시간
