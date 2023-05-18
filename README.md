@@ -103,7 +103,7 @@
 ```
 trouble-shooting
 ```
-**트러블 슈팅** 경험을 `Issue` > `Problem` > `Solution` > `What I Learn` 방식으로 간략히 메모
+**트러블 슈팅** 경험을 `Issue` > `Problem` > `Solution` > `What I Learn` 방식으로 포스팅
 
 + [AWS EB로 Blue/Green 배포](https://github.com/3dayc/blog/blob/main/trouble-shooting/AWS_EB%EB%A1%9C_Blue_Green_%EB%B0%B0%ED%8F%AC.md)
 + [canonical이란?](https://github.com/3dayc/blog/blob/main/trouble-shooting/canonical%EC%9D%B4%EB%9E%80.md)
