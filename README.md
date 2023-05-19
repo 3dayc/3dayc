@@ -1,4 +1,4 @@
-# Skills
+# Skill
 
 ### Develop
 <div>
