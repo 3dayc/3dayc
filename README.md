@@ -1,6 +1,12 @@
 # Skill
 
-### Develop
+### Soft Skills
+`#협업` `#커뮤니케이션` `#조직 관리` `#문제 해결` `#문서화` `#일정 관리` `#리더십` `#적응력` `#갈등 해결` `#비판적 사고`
+
+<br>
+
+### Hard Skills
+**Develop**
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -45,7 +51,9 @@
   <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white">
 </div>
 
-### Data
+<br>
+
+**Data**
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
@@ -54,7 +62,9 @@
   <img src="https://img.shields.io/badge/Google Tag Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white">
 </div>
 
-### Collaboration
+<br>
+
+**Collaboration**
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
