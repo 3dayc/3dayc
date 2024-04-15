@@ -63,7 +63,6 @@
 </div>
 
 <br>
-<br>
 
 **Collaboration**
 <div>
@@ -76,6 +75,7 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
 </div>
 
+<br>
 <br>
 
 # Project
