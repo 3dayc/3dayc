@@ -1,11 +1,5 @@
 # Skill
 
-### Soft Skills
-`#협업` `#커뮤니케이션` `#조직 관리` `#문제 해결` `#문서화` `#일정 관리` `#리더십` `#적응력` `#갈등 해결` `#비판적 사고`
-
-<br>
-
-### Hard Skills
 **Develop**
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
